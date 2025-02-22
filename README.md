@@ -1,4 +1,4 @@
-# Adiconando registros via cmd, bash ou powershell
+# Adicionando registros via cmd, bash ou powershell
 
 Use os comandos abaixo para adicionar dados ao banco:
 ## Exemplos usando o CMD do Windows ou o Bash do git:
